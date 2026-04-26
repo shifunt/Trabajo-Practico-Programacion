@@ -1,0 +1,37 @@
+body {
+  font-family: Arial, sans-serif;
+}
+
+header, footer {
+  background: #ccc;
+  padding: 10px;
+  text-align: center;
+}
+
+nav ul {
+  list-style: none;
+  padding: 0;
+}
+
+nav li {
+  display: inline;
+  margin: 0 10px;
+}
+
+main {
+  padding: 20px;
+}
+
+.img-uno {
+  display: inline-block;
+  margin-right: 10px; 
+  max-width: 200px;
+  height: auto;
+}
+
+  .imgg-dos {
+  display: inline-block;
+  margin-left: 10px; 
+  max-width: 200px;
+  height: auto;
+  }
