@@ -107,3 +107,75 @@ footer {
   padding: 10px;
   font-size: 14px;
 }
+
+/*Style para Horario.html*/
+
+body {
+  font-family: Arial, sans-serif;
+  font-size: 16px;
+  color: #333;
+  background-color: #f5f5f5;
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  background-color: #2c3e50;
+  color: #fff;
+  padding: 15px;
+  text-align: center;
+}
+
+header h1 {
+  font-size: 26px;
+  margin: 0;
+}
+
+nav ul {
+  list-style: none;
+  margin: 10px 0 0 0;
+  padding: 0;
+  display: flex;
+  justify-content: center;
+  gap: 15px;
+}
+
+nav a {
+  color: #f1c40f;
+  font-size: 18px;
+  text-decoration: none;
+}
+
+nav a:hover {
+  text-decoration: underline;
+}
+
+main {
+  padding: 20px;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-bottom: 20px;
+  font-size: 15px;
+}
+
+th, td {
+  border: 1px solid #999;
+  padding: 8px;
+  text-align: center;
+}
+
+th {
+  background-color: #34495e;
+  color: #fff;
+}
+
+footer {
+  background-color: #2c3e50;
+  color: #fff;
+  text-align: center;
+  padding: 10px;
+  font-size: 14px;
+}
